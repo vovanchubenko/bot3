@@ -1,0 +1,20 @@
+{
+    "name": "Refer and Earn Python Telegram BoT",
+    "description": "A Refer and Earn telegram bot.",
+    "repository": "https://github.com/midlajppm/PyBot",
+    "logo" : "https://telegra.ph/file/28d014be67d89ef845834.jpg",
+    "keywords": [
+       
+        "telegram bot",
+        "pyrogram"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "5796227133:AAGjNB_wi6chVwa5HMLEGz48YXaEDIQHWLI"
+        },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
